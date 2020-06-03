@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/pypi/pyversions/pip) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-# House-Rent-Prediction-Pipeline-Overview
+# Rent Prediction Challenge Overview
 :house_with_garden::moneybag::house_with_garden::moneybag::house_with_garden:
 
 
