@@ -1,10 +1,11 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
-![Python Version](https://img.shields.io/pypi/pyversions/pip) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
 
 # Rent Prediction Challenge Overview
 :house_with_garden::moneybag::house_with_garden::moneybag::house_with_garden:
 
+
+![Python Version](https://img.shields.io/pypi/pyversions/pip) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 This project was an attempt to the iNeuron [ML Challenge 2](https://challenge-ineuron.in/mlchallenge.php#). The main objective of the project was to predict monthly house rent depending upon the various features.
 
@@ -101,7 +102,7 @@ The best prediction performance was achieved with a Random Forest regressor, usi
     
 ![random_forest](/plots/random_forest.png)
 
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
 ## References
 - [A Simple Tutorial To Data Visualization](https://www.kaggle.com/vanshjatana/a-simple-tutorial-to-data-visualization/data#Bar-Plot): Kaggle notebook by [Vansh Jatana](https://www.kaggle.com/vanshjatana)
